@@ -8,7 +8,7 @@ uses the following tables as supplied ( for more info check http://archive.ics.u
 Data was download originally on XXXX date
 
 
-the following is true from origin of data and isreproduced below:
+the following is true from origin of data and is reproduced below for reference:
 
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
@@ -60,8 +60,7 @@ The following files are available for the train and test data. Their description
 
 - 'train/Inertial Signals/total_acc_x_train.txt': The acceleration signal from the smartphone accelerometer X axis in standard gravity units 'g'. Every row shows a 128 element vector. The same description applies for the 'total_acc_x_train.txt' and 'total_acc_z_train.txt' files for the Y and Z axis. 
 
-***************************
-
+*******************************************************8
 
 
 
